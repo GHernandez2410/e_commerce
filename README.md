@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+e_commerce web app build on React Js + material-ui + react-hook-form + react-stripe-js + react-router-dom, the data from consuming commerce.js API. 
+
+DEMO deployed on Firebase
+-> e-commerce-793c2.web.app/ <-
 
 ## Available Scripts
 
